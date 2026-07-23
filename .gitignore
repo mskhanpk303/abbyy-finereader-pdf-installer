@@ -1,5 +1,0 @@
-coverage/
-.env.local
-.env
-*.log
-_site/
